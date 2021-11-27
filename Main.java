@@ -51,7 +51,7 @@ public class Main {
         // clé de chefferement
         int key = 5;
         // message to encrypte
-        String message = "hello wadie how are you ?";
+        String message = "hello wadie how are you";
         System.out.println("Message : " + message + " | with the key = " + key);
         // encrypte
         String encyptedString = encrypte(message, key);
